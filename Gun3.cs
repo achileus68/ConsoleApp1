@@ -1,6 +1,6 @@
 namespace ConsoleApp1;
 
-public class kitap
+public class Gun3
 {
     
 }

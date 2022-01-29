@@ -64,8 +64,7 @@ public static class Program
 {
     public static void Main(string[] args)
     {
-       
-        
+        Gun2 g = new Gun2();
     }
 }
 }
