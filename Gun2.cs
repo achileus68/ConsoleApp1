@@ -111,6 +111,5 @@ public class Gun2
         Console.WriteLine(c);
 
         Console.WriteLine(a);
-# bit tabanli operatorler:
-& | ^ >> << ~ > *
+
  */
